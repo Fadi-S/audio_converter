@@ -1,0 +1,3 @@
+/Users/fadi/Documents/Fadi/Koleya/Term 8/Deep Learning/Project/converter/cmake-build-debug/CMakeFiles/converter.dir
+/Users/fadi/Documents/Fadi/Koleya/Term 8/Deep Learning/Project/converter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fadi/Documents/Fadi/Koleya/Term 8/Deep Learning/Project/converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
