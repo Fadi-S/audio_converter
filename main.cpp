@@ -76,7 +76,7 @@ void convertMP3ToWAV(const fs::path& inputFile, const fs::path& outputFile) {
 }
 
 int main() {
-    fs::path current_path = fs::current_path().parent_path();
+    fs::path current_path = fs::current_path();
     fs::path input_path = current_path / "input";
     fs::path output_path = current_path / "output";
 
